@@ -32,6 +32,7 @@
 .Nav li a:hover{
     border-bottom: 1px solid white; 
     color: white;
+    cursor: pointer;
 }
 
 .Nav li a::before{
